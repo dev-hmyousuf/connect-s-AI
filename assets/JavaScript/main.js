@@ -133,7 +133,7 @@ const generateAPIResponse = async (incomingMessageDiv) => {
 
 const showLoadingAnimation = () => {
   const html = `<div class="message-content">
-                  <img class="avatar" src="https://i.postimg.cc/tTz2g7Xt/png-transparent-artificial-intelligence-ai-chip-computer-technology-artificial-intelligence-icon-thu.png" alt="Gemini avatar">
+                  <img class="avatar" src="https://i.postimg.cc/cLz4XK9D/favicon.png" alt=" avatar">
                   <p class="text"></p>
                   <div class="loading-indicator">
                     <div class="loading-bar"></div>
